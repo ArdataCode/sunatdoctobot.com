@@ -1,0 +1,12 @@
+[13-Mar-2024 23:11:11 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/ujianori/sunatdoctobot.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/sunatdoctobot.com/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[13-Mar-2024 23:11:20 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/ujianori/sunatdoctobot.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/sunatdoctobot.com/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[13-Mar-2024 23:12:03 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Class "WP_REST_Search_Handler" not found in /home/ujianori/sunatdoctobot.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/sunatdoctobot.com/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17

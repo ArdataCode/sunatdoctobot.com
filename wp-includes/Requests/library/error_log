@@ -1,0 +1,4 @@
+[13-Mar-2024 22:31:14 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/ujianori/sunatdoctobot.com/wp-includes/Requests/library/Requests.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/sunatdoctobot.com/wp-includes/Requests/library/Requests.php on line 12

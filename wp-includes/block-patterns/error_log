@@ -1,0 +1,24 @@
+[13-Mar-2024 22:42:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/sunatdoctobot.com/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/sunatdoctobot.com/wp-includes/block-patterns/query-grid-posts.php on line 9
+[13-Mar-2024 22:42:43 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/sunatdoctobot.com/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/sunatdoctobot.com/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[13-Mar-2024 22:42:44 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/sunatdoctobot.com/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/sunatdoctobot.com/wp-includes/block-patterns/query-medium-posts.php on line 9
+[13-Mar-2024 22:42:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/sunatdoctobot.com/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/sunatdoctobot.com/wp-includes/block-patterns/query-offset-posts.php on line 9
+[13-Mar-2024 22:43:06 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/sunatdoctobot.com/wp-includes/block-patterns/query-small-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/sunatdoctobot.com/wp-includes/block-patterns/query-small-posts.php on line 9
+[13-Mar-2024 22:43:17 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/ujianori/sunatdoctobot.com/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ujianori/sunatdoctobot.com/wp-includes/block-patterns/query-standard-posts.php on line 9
